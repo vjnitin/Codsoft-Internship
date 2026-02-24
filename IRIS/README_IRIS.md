@@ -1,3 +1,5 @@
+# IRIS Flower Classification
+
 This notebook applies machine learning to the classic IRIS dataset to classify flower species.
 It follows five structured steps: Importing Libraries → Data Loading → EDA → Preprocessing → Model Training & Evaluation.
 Data is preprocessed using SimpleImputer and StandardScaler, and models are trained and evaluated using cross-validation scores.

@@ -1,3 +1,5 @@
+# Credit Card Fraud Detection
+
 This notebook performs machine learning classification on the Credit Card dataset to detect fraudulent transactions.
 It covers data loading, exploratory data analysis (EDA), preprocessing with imputation and scaling, and model training using Naive Bayes classifiers evaluated via cross-validation.
 The workflow follows five steps: Importing Libraries → Data Loading → EDA → Preprocessing → Model Training & Evaluation.
